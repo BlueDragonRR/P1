@@ -20915,13 +20915,13 @@
             "encounter_rate": 21,
             "mons": [
               {
-                "min_level": 3,
-                "max_level": 3,
+                "min_level": 4,
+                "max_level": 7,
                 "species": "SPECIES_RATTATA"
               },
               {
-                "min_level": 3,
-                "max_level": 3,
+                "min_level": 4,
+                "max_level": 7,
                 "species": "SPECIES_MANKEY"
               },
               {
@@ -20931,48 +20931,48 @@
               },
               {
                 "min_level": 4,
-                "max_level": 4,
-                "species": "SPECIES_MANKEY"
-              },
-              {
-                "min_level": 2,
-                "max_level": 2,
-                "species": "SPECIES_RATTATA"
-              },
-              {
-                "min_level": 2,
-                "max_level": 2,
-                "species": "SPECIES_MANKEY"
-              },
-              {
-                "min_level": 3,
-                "max_level": 3,
+                "max_level": 7,
                 "species": "SPECIES_SPEAROW"
               },
               {
                 "min_level": 5,
-                "max_level": 5,
-                "species": "SPECIES_SPEAROW"
+                "max_level": 8,
+                "species": "SPECIES_ZIGZAGOON"
               },
               {
-                "min_level": 5,
-                "max_level": 5,
-                "species": "SPECIES_RATTATA"
+                "min_level": 4,
+                "max_level": 7,
+                "species": "SPECIES_SENTRET"
               },
               {
-                "min_level": 5,
-                "max_level": 5,
+                "min_level": 4,
+                "max_level": 7,
                 "species": "SPECIES_MANKEY"
               },
               {
                 "min_level": 5,
-                "max_level": 5,
-                "species": "SPECIES_RATTATA"
+                "max_level": 8,
+                "species": "SPECIES_TREECKO"
               },
               {
                 "min_level": 5,
-                "max_level": 5,
-                "species": "SPECIES_MANKEY"
+                "max_level": 8,
+                "species": "SPECIES_TOTODILE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 8,
+                "species": "SPECIES_CHARMANDER"
+              },
+              {
+                "min_level": 5,
+                "max_level": 8,
+                "species": "SPECIES_TOTODILE"
+              },
+              {
+                "min_level": 5,
+                "max_level": 8,
+                "species": "SPECIES_CHARMANDER"
               }
             ]
           },
