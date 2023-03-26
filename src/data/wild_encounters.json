@@ -18021,64 +18021,64 @@
             "encounter_rate": 21,
             "mons": [
               {
-                "min_level": 16,
-                "max_level": 16,
-                "species": "SPECIES_SPEAROW"
-              },
-              {
-                "min_level": 16,
-                "max_level": 16,
+                "min_level": 24,
+                "max_level": 27,
                 "species": "SPECIES_VOLTORB"
               },
               {
-                "min_level": 11,
-                "max_level": 11,
-                "species": "SPECIES_EKANS"
-              },
-              {
-                "min_level": 15,
-                "max_level": 15,
-                "species": "SPECIES_EKANS"
-              },
-              {
-                "min_level": 13,
-                "max_level": 13,
-                "species": "SPECIES_SPEAROW"
-              },
-              {
-                "min_level": 14,
-                "max_level": 14,
+                "min_level": 24,
+                "max_level": 27,
                 "species": "SPECIES_VOLTORB"
               },
               {
-                "min_level": 17,
-                "max_level": 17,
-                "species": "SPECIES_SPEAROW"
+                "min_level": 25,
+                "max_level": 28,
+                "species": "SPECIES_TROPIUS"
               },
               {
-                "min_level": 17,
-                "max_level": 17,
-                "species": "SPECIES_VOLTORB"
+                "min_level": 25,
+                "max_level": 28,
+                "species": "SPECIES_TANGELA"
               },
               {
-                "min_level": 14,
-                "max_level": 14,
-                "species": "SPECIES_VOLTORB"
+                "min_level": 24,
+                "max_level": 27,
+                "species": "SPECIES_PINSIR"
               },
               {
-                "min_level": 13,
-                "max_level": 13,
-                "species": "SPECIES_EKANS"
+                "min_level": 24,
+                "max_level": 27,
+                "species": "SPECIES_SCYTHER"
               },
               {
-                "min_level": 14,
-                "max_level": 14,
-                "species": "SPECIES_VOLTORB"
+                "min_level": 25,
+                "max_level": 28,
+                "species": "SPECIES_TROPIUS"
               },
               {
-                "min_level": 17,
-                "max_level": 17,
-                "species": "SPECIES_EKANS"
+                "min_level": 25,
+                "max_level": 28,
+                "species": "SPECIES_TANGELA"
+              },
+              {
+                "min_level": 26,
+                "max_level": 27,
+                "species": "SPECIES_ABSOL"
+              },
+              {
+                "min_level": 25,
+                "max_level": 26,
+                "species": "SPECIES_TEDDIURSA"
+              },
+              {
+                "min_level": 26,
+                "max_level": 27,
+                "species": "SPECIES_ABSOL"
+              },
+              {
+                "min_level": 25,
+                "max_level": 26,
+                "species": "SPECIES_TEDDIURSA"
               }
             ]
           },
